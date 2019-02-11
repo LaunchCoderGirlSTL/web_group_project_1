@@ -1,4 +1,5 @@
-# Coder Girl Web Cohort
+# CoderGirl Web Cohort
+
 ## Kat's Costume Shop
 
 The purpose of completing this website is to create a mobile-first, responsive demonstration website to prove out and futher practice the HTML and CSS skills you have acquired.
@@ -17,3 +18,9 @@ The purpose of completing this website is to create a mobile-first, responsive d
 * The text is already typed out in `index.html`
 * There are already media selectors for handling larger website formats in the CSS file.
 * The rest is on your own.
+
+## Licensing
+
+© LaunchCode 2019
+
+The Cat Costume Shop project was created by Brooke Schelar in 2015 for the CoderGirl Web Development class.
